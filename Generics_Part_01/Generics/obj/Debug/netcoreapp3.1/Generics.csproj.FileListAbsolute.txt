@@ -1,0 +1,14 @@
+C:\Users\leand\source\repos\Generics_Part_01\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\leand\source\repos\Generics_Part_01\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\leand\source\repos\Generics_Part_01\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\leand\source\repos\Generics_Part_01\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\leand\source\repos\Generics_Part_01\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\leand\source\repos\Generics_Part_01\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\leand\source\repos\Generics_Part_01\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.AssemblyReference.cache
+C:\Users\leand\source\repos\Generics_Part_01\Generics\obj\Debug\netcoreapp3.1\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\source\repos\Generics_Part_01\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\leand\source\repos\Generics_Part_01\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\leand\source\repos\Generics_Part_01\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\Generics_Part_01\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\leand\source\repos\Generics_Part_01\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\leand\source\repos\Generics_Part_01\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
