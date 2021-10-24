@@ -18,7 +18,7 @@ namespace Generics_Part_02
                 int x = int.Parse(Console.ReadLine());
                 list.Add(x);
             }
-            CalculationService calculationService = new CalculationService();
+            CalculationServiceGeneric calculationService = new CalculationServiceGeneric();
 
             int max = calculationService.Max(list);
 
